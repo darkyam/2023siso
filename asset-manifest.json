@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f113e1a.css",
-    "main.js": "/static/js/main.f383d5c6.js",
+    "main.css": "/static/css/main.97d38721.css",
+    "main.js": "/static/js/main.b2a215ce.js",
     "static/media/siso_load.gif": "/static/media/siso_load.ee939c76539ceac797a6.gif",
     "static/media/PyeongChangPeace-Light.ttf": "/static/media/PyeongChangPeace-Light.7904d3e69c9b476d2315.ttf",
     "static/media/Happiness-Sans-Regular.ttf": "/static/media/Happiness-Sans-Regular.5afb83fefa96d6db8c5e.ttf",
     "static/media/Happiness-Sans-Bold.ttf": "/static/media/Happiness-Sans-Bold.b8dc0c528edd121b7e47.ttf",
     "static/media/factorial_shadow.png": "/static/media/factorial_shadow.33b064bc3382c0c08fa6.png",
     "static/media/logo_yadz.png": "/static/media/logo_yadz.5a2032587e0e322530bc.png",
+    "static/media/about_main.jpg": "/static/media/about_main.47379d9d91e3a03aae01.jpg",
     "static/media/logo_hangul.png": "/static/media/logo_hangul.6ed091e27462019a684e.png",
     "static/media/logo_droma.png": "/static/media/logo_droma.a172807110f93bea374a.png",
     "static/media/logo_i.png": "/static/media/logo_i.383fde1ce2493561f5a5.png",
@@ -27,11 +28,11 @@
     "static/media/iray.png": "/static/media/iray.0613f84e2337476052e4.png",
     "static/media/yadz.png": "/static/media/yadz.ad556e3ccd43947475af.png",
     "index.html": "/index.html",
-    "main.1f113e1a.css.map": "/static/css/main.1f113e1a.css.map",
-    "main.f383d5c6.js.map": "/static/js/main.f383d5c6.js.map"
+    "main.97d38721.css.map": "/static/css/main.97d38721.css.map",
+    "main.b2a215ce.js.map": "/static/js/main.b2a215ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f113e1a.css",
-    "static/js/main.f383d5c6.js"
+    "static/css/main.97d38721.css",
+    "static/js/main.b2a215ce.js"
   ]
 }
