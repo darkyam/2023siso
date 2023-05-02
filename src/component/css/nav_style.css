@@ -1,0 +1,47 @@
+.navbar {
+    background-image: url('../../img/bar_gradation.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    font-family: 'PyeongChangPeace-Light';
+}
+.nav_logo img {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.navbar-collapse{
+    background: none;
+}
+.navbar .nav-link:not(:last-child){
+    background-color: white;
+    color: #0B8BB0;
+    font-size: 20px;
+    border-bottom: 1px solid #0B8BB0;
+}
+.navbar .nav-link:last-child{
+    background-color: white;
+    color: #0B8BB0;
+    font-size: 20px;
+    border: none;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+}
+.navbar .nav_item img{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+.navbar-toggler{
+    border: none;
+}
+.navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+}

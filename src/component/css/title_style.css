@@ -1,0 +1,13 @@
+.title{
+    margin-top: 20px;
+    text-align: left;
+    font-weight: 500;
+    font-family: 'PyeongChangPeace-Light';
+    font-size: 20px;
+    color: #0B8BB0;
+    margin-left: 5%;
+}
+.title img{
+    width: 15px;
+    margin-right: 10px;
+}

@@ -1,0 +1,27 @@
+.link_entry{
+    text-decoration: none;
+    color: #0B8BB0;
+    font-family: 'PyeongChangPeace-Light';
+    text-align: left;
+    margin-left: 10%;
+    border-bottom: #0B8BB0;
+    line-height: 20px;
+    font-weight: 700;
+}
+.link_entry img{
+    width: 15px;
+    margin-right: 5px;
+}
+.entry_func{
+    border-color:white;
+    border-width: 5px;
+    border-style: solid;
+}
+.entry_func hr{
+    border: none;
+    margin-left: 10%;
+    height: 2px;
+    background-color: #0B8BB0;
+    margin-top: 10px;
+    width: 80%;
+}

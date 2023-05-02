@@ -1,0 +1,56 @@
+footer{
+    background-color: white;
+    margin-top: 10px;
+    color: #a6d5e5;
+    font-weight: 700;
+    line-height: 25px;
+
+}
+footer .info .date{
+    font-family: 'Kosmos';
+    text-decoration: none;
+    font-size: medium;
+    color: #a6d5e5;
+}
+footer img {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+footer .info{
+    margin-left: 10px;
+    font-family: 'PyeongChangPeace-Light';
+    font-size: 14px;
+    float: left;
+}
+footer .info .siso_foot{
+    width: 130px;
+    height: 60px;
+}
+footer .logo{
+    width: 100px;
+    height: 150px;
+    margin-right: 5px;
+    float: right;
+    text-align: right;
+}
+footer .logo a{
+    font-size: 15px;
+    text-decoration: none;
+    color: #a6d5e5;
+}
+footer .logo img{
+    margin-top: 100px;
+    justify-content:right;
+    width: 24px;
+    height: 24px;
+    overflow:hidden;
+    margin-left: 7px;
+}
+footer .logo ul{
+    display: block;
+    margin-right: 6px;
+}

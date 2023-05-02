@@ -1,0 +1,28 @@
+.entry_all{
+    text-align: center;
+    font-family: 'Happiness-Sans-Regular';
+    color: #0B8BB0;
+}
+
+.entry_logo img{
+    margin-top: 50px;
+    width: 40%;
+}
+
+.entry_name img{
+    margin-top: 50px;
+    margin-bottom: 15px;
+    width: 40%;
+}
+.entry_info{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 50px;
+}
+.blank_entry{
+    margin-top: 50px;
+}
+.archive_button{
+    border-color: #0B8BB0;
+    color: #0B8BB0;
+}

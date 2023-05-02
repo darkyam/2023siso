@@ -1,0 +1,36 @@
+import '../css/archive_info_style.css'
+import React from 'react';
+
+function Adr() {
+    return (
+        <div className='archive_all'>
+        <div className='archive_name'>
+            <p>
+                I-RAY
+            </p>
+        </div>
+        <div className='archive_poster'>
+            <img src=''/>
+        </div>
+        <div className='archive_title'>
+            <p>
+            퀀텀 리프(Quantum Leap)
+            </p>
+        </div>
+        <div className='archive_info'>
+            <p>
+            '양자도약(Quantum Leap)'이란 에너지를 흡수하여 변화할 때 급속도로 변하는 것을 의미한다. 
+마침내 사회가 제자리를 찾아간 22년을 지나 23년은 그간 축적해온 에너지를 통해 변화와 발전에 박차를 가할 시기이다. 
+이에 애드레날린은 격변의 징조를 각자의 광고로 다루어본다. 
+            </p>       
+        </div>
+        <hr/>
+        <div className='archive_link'>
+
+        </div>
+    </div>
+    )
+    
+
+}
+export default Adr;

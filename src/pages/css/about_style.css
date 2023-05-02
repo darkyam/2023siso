@@ -1,0 +1,42 @@
+.about{
+   font-family: 'Happiness-Sans-Regular';
+   text-align: center;
+   margin-left: 5%;
+   margin-right: 5%;
+   color: #0B8BB0;;
+}
+.about .about_poster img{
+    margin-top: 10px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+  .about .about_title{
+    font-family: 'PyeongChangPeace-Light';
+    font-weight: 700;
+    text-align: left;
+    margin-top: 25px;
+    line-height: 10px;
+  }
+  .about .about_date{
+    font-family: 'PyeongChangPeace-Light';
+    font-weight: 500;
+    text-align: left;
+    line-height: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.about .about_info_title{
+    font-weight: 700;
+    text-align: left;
+    font-size:25px;
+    margin-bottom: 30px;
+}
+.about .about_info{
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 80px;
+}

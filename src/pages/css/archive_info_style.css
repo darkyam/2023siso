@@ -1,0 +1,36 @@
+.archive_all{
+    font-family: 'Happiness-Sans-Regular';
+    font-weight: 500;
+    color: #0B8BB0;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.archive_poster img{
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.archive_name{
+    font-weight: 700;
+}
+.archive_title{
+    margin-left: 5%;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-right: 5%;
+}
+.archive_info{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+}
+.archive_all hr{
+    border: none;
+    margin-left: 5%;
+    height: 2px;
+    background-color: #0B8BB0;
+    margin-top: 10px;
+    width: 90%;
+}

@@ -1,0 +1,32 @@
+.credit{
+    margin-top: 60px;
+    background-color: white;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    color: #0B8BB0;
+    margin-bottom: 100px;
+}
+.credit .credit_title{
+    font-family: 'PyeongChangPeace-Light';
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.credit .credit_title img{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 15px;
+    margin-bottom: 2px;
+}
+.credit .credit_part{
+    font-weight:700;
+    font-family: 'Happiness-Sans-Regular';
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.credit .credit_names{
+    font-weight: 500;
+    font-family: 'Happiness-Sans-Regular';
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
