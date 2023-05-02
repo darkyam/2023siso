@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.97d38721.css",
+    "main.css": "/static/css/main.d6b98695.css",
     "main.js": "/static/js/main.b2a215ce.js",
     "static/media/siso_load.gif": "/static/media/siso_load.ee939c76539ceac797a6.gif",
     "static/media/PyeongChangPeace-Light.ttf": "/static/media/PyeongChangPeace-Light.7904d3e69c9b476d2315.ttf",
@@ -28,11 +28,11 @@
     "static/media/iray.png": "/static/media/iray.0613f84e2337476052e4.png",
     "static/media/yadz.png": "/static/media/yadz.ad556e3ccd43947475af.png",
     "index.html": "/index.html",
-    "main.97d38721.css.map": "/static/css/main.97d38721.css.map",
+    "main.d6b98695.css.map": "/static/css/main.d6b98695.css.map",
     "main.b2a215ce.js.map": "/static/js/main.b2a215ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d38721.css",
+    "static/css/main.d6b98695.css",
     "static/js/main.b2a215ce.js"
   ]
 }
