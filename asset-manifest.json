@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.62461e8b.css",
-    "main.js": "/static/js/main.de1dd7e1.js",
+    "main.css": "/static/css/main.1f113e1a.css",
+    "main.js": "/static/js/main.f383d5c6.js",
     "static/media/siso_load.gif": "/static/media/siso_load.ee939c76539ceac797a6.gif",
     "static/media/PyeongChangPeace-Light.ttf": "/static/media/PyeongChangPeace-Light.7904d3e69c9b476d2315.ttf",
     "static/media/Happiness-Sans-Regular.ttf": "/static/media/Happiness-Sans-Regular.5afb83fefa96d6db8c5e.ttf",
@@ -27,11 +27,11 @@
     "static/media/iray.png": "/static/media/iray.0613f84e2337476052e4.png",
     "static/media/yadz.png": "/static/media/yadz.ad556e3ccd43947475af.png",
     "index.html": "/index.html",
-    "main.62461e8b.css.map": "/static/css/main.62461e8b.css.map",
-    "main.de1dd7e1.js.map": "/static/js/main.de1dd7e1.js.map"
+    "main.1f113e1a.css.map": "/static/css/main.1f113e1a.css.map",
+    "main.f383d5c6.js.map": "/static/js/main.f383d5c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.62461e8b.css",
-    "static/js/main.de1dd7e1.js"
+    "static/css/main.1f113e1a.css",
+    "static/js/main.f383d5c6.js"
   ]
 }
