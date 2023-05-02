@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/2023siso/static/css/main.b7c7e5a1.css",
+    "main.js": "/2023siso/static/js/main.29764581.js",
+    "static/media/siso_load.gif": "/2023siso/static/media/siso_load.ee939c76539ceac797a6.gif",
+    "static/media/PyeongChangPeace-Light.ttf": "/2023siso/static/media/PyeongChangPeace-Light.7904d3e69c9b476d2315.ttf",
+    "static/media/Happiness-Sans-Regular.ttf": "/2023siso/static/media/Happiness-Sans-Regular.5afb83fefa96d6db8c5e.ttf",
+    "static/media/Happiness-Sans-Bold.ttf": "/2023siso/static/media/Happiness-Sans-Bold.b8dc0c528edd121b7e47.ttf",
+    "static/media/factorial_shadow.png": "/2023siso/static/media/factorial_shadow.33b064bc3382c0c08fa6.png",
+    "static/media/logo_yadz.png": "/2023siso/static/media/logo_yadz.5a2032587e0e322530bc.png",
+    "static/media/logo_hangul.png": "/2023siso/static/media/logo_hangul.6ed091e27462019a684e.png",
+    "static/media/logo_droma.png": "/2023siso/static/media/logo_droma.a172807110f93bea374a.png",
+    "static/media/logo_i.png": "/2023siso/static/media/logo_i.383fde1ce2493561f5a5.png",
+    "static/media/logo_greenbee.png": "/2023siso/static/media/logo_greenbee.0a6f85224e155f05c244.png",
+    "static/media/logo_ad.png": "/2023siso/static/media/logo_ad.188aeae90041aa18e52e.png",
+    "static/media/logo_hips.png": "/2023siso/static/media/logo_hips.48015eb776eac2ba92b2.png",
+    "static/media/logo_proto.png": "/2023siso/static/media/logo_proto.92f943609a3f6defbd81.png",
+    "static/media/mobile_main3.png": "/2023siso/static/media/mobile_main3.7c0e4315c5ee110a233a.png",
+    "static/media/logo_hyph.png": "/2023siso/static/media/logo_hyph.4aadd1f08a1e727d9dd5.png",
+    "static/media/Kosmos.otf": "/2023siso/static/media/Kosmos.7c15a7b7180f0f2c3561.otf",
+    "static/media/bar_gradation.png": "/2023siso/static/media/bar_gradation.465acd64ab342e344b8c.png",
+    "static/media/hangul.png": "/2023siso/static/media/hangul.7dc306284a5db4dac714.png",
+    "static/media/dro.png": "/2023siso/static/media/dro.5eabba718c75b340a2c3.png",
+    "static/media/adre.png": "/2023siso/static/media/adre.fc16a6450498d7bd06bf.png",
+    "static/media/greenb.png": "/2023siso/static/media/greenb.47a74e7fd9f63b384e84.png",
+    "static/media/proto.png": "/2023siso/static/media/proto.cc39e3f57d04fe55c3dc.png",
+    "static/media/iray.png": "/2023siso/static/media/iray.0613f84e2337476052e4.png",
+    "static/media/yadz.png": "/2023siso/static/media/yadz.ad556e3ccd43947475af.png",
+    "index.html": "/2023siso/index.html",
+    "main.b7c7e5a1.css.map": "/2023siso/static/css/main.b7c7e5a1.css.map",
+    "main.29764581.js.map": "/2023siso/static/js/main.29764581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c7e5a1.css",
+    "static/js/main.29764581.js"
+  ]
+}
