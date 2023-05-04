@@ -1,5 +1,6 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Hip () {
     return (
@@ -10,7 +11,7 @@ function Hip () {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src='https://i.imgur.com/ewLJxeo.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -28,11 +29,40 @@ function Hip () {
         </div>
         <hr/>
         <div className='archive_link'>
-
+        <Link to={'/archieve/HIPS/3'}>
+                <img src='https://i.imgur.com/Nsp5xGT.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/4'}>
+                <img src='https://i.imgur.com/39G5QBw.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/5'}>
+                <img src='https://i.imgur.com/1kRqVkO.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/6'}>
+                <img src='https://i.imgur.com/0W6yEda.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/7'}>
+                <img src='https://i.imgur.com/108RTXd.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/8'}>
+                <img src='https://i.imgur.com/IWnTpX4.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/9'}>
+                <img src='https://i.imgur.com/78HYXKR.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/10'}>
+                <img src='https://i.imgur.com/dPdyH8r.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/11'}>
+                <img src='https://i.imgur.com/6F4JD7z.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HIPS/12'}>
+                <img src='https://i.imgur.com/QxF8EZ0.jpeg'/>
+            </Link>
         </div>
     </div>
     )
     
 
 }
-export default Hyp;
+export default Hip;

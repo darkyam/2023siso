@@ -1,5 +1,6 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Hang() {
     return (
@@ -10,7 +11,7 @@ function Hang() {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src='https://i.imgur.com/4RRPmUs.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -27,6 +28,51 @@ function Hang() {
         </div>
         <hr/>
         <div className='archive_link'>
+        <Link to={'/archieve/HANGULGGOL/11'}>
+                <img src='https://i.imgur.com/XiDYLhh.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/12'}>
+                <img src='https://i.imgur.com/mgUGPry.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/13'}>
+                <img src='https://i.imgur.com/OflO6VD.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/14'}>
+                <img src='https://i.imgur.com/0kZ1XLL.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/15'}>
+                <img src='https://i.imgur.com/NNuEp33.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/16'}>
+                <img src='https://i.imgur.com/2Sbncnt.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/17'}>
+                <img src='https://i.imgur.com/pufVo4u.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/18'}>
+                <img src='https://i.imgur.com/mYFKJt5.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/19'}>
+                <img src='https://i.imgur.com/GX2tB1R.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/20'}>
+                <img src='https://i.imgur.com/hbfPKdB.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/21'}>
+                <img src='https://i.imgur.com/WhAorfD.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/22'}>
+                <img src='https://i.imgur.com/o7onC6j.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/23'}>
+                <img src='https://i.imgur.com/t7PnCYG.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/24'}>
+                <img src='https://i.imgur.com/vi0AQvv.jpeg'/>
+            </Link>
+            <Link to={'/archieve/HANGULGGOL/25'}>
+                <img src='https://i.imgur.com/PieSnky.jpeg'/>
+            </Link>
 
         </div>
     </div>

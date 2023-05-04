@@ -1,5 +1,6 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Yad() {
     return (
@@ -10,7 +11,7 @@ function Yad() {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src='https://i.imgur.com/qvB8lZr.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -25,7 +26,57 @@ function Yad() {
         </div>
         <hr/>
         <div className='archive_link'>
-
+            <Link to={'/archieve/YADZ/4'}>
+                <img src='https://i.imgur.com/xDvtK0S.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/6'}>
+                <img src='https://i.imgur.com/6IPFP40.png'/>
+            </Link>
+            <Link to={'/archieve/YADZ/8'}>
+                <img src='https://i.imgur.com/hvlVzUS.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/9'}>
+                <img src='https://i.imgur.com/HhtXxRK.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/10'}>
+                <img src='https://i.imgur.com/m1hOXIe.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/11'}>
+                <img src='https://i.imgur.com/PJPoHBd.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/13'}>
+                <img src='https://i.imgur.com/CfBH9My.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/14'}>
+                <img src='https://i.imgur.com/vPHl71R.png'/>
+            </Link>
+            <Link to={'/archieve/YADZ/15'}>
+                <img src='https://i.imgur.com/R8SEXOA.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/16'}>
+                <img src='https://i.imgur.com/dxB5TXv.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/18'}>
+                <img src='https://i.imgur.com/JFz2LTB.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/19'}>
+                <img src='https://i.imgur.com/EizEqBZ.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/20'}>
+                <img src='https://i.imgur.com/5bldiBW.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/21'}>
+                <img src='https://i.imgur.com/yC26wcw.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/22'}>
+                <img src='https://i.imgur.com/q7LV8ES.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/23'}>
+                <img src='https://i.imgur.com/dnOI9ry.jpeg'/>
+            </Link>
+            <Link to={'/archieve/YADZ/24'}>
+                <img src='https://i.imgur.com/jWDLQVU.jpeg'/>
+            </Link>
         </div>
     </div>
     )

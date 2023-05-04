@@ -3,11 +3,12 @@ import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_yadz.png"
 import title from "../../img/entry/title/yadz.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Yadz() {
     return(
         <div className="entry_all">
-        <Title name="Yadz"/>
+        <Title name="YADZ"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,9 @@ function Yadz() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/YADZ'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
         </div>
         </div>
     )

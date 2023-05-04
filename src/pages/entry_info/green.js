@@ -1,13 +1,14 @@
 import { Button } from "react-bootstrap";
 import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_greenbee.png"
-import title from "../../img/entry/title/greenb.png"
+import title from "../../img/entry/title/GREENBEE.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Greenb() {
     return(
         <div className="entry_all">
-        <Title name="Greenb"/>
+        <Title name="GREENBEE"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,10 @@ function Greenb() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/GREENBEE'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+
+            </Link>
         </div>
         </div>
     )

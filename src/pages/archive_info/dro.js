@@ -1,5 +1,8 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import Poster from './dr_pos.jpeg';
+import Lee from './dr_lee.jpeg';
+import { Link } from 'react-router-dom';
 
 function Dro() {
     return (
@@ -10,7 +13,7 @@ function Dro() {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src={Poster}/>
         </div>
         <div className='archive_title'>
             <p>
@@ -25,7 +28,21 @@ function Dro() {
         </div>
         <hr/>
         <div className='archive_link'>
-
+        <Link to={'/archieve/DROMAPIC/3'}>
+                <img src='https://i.imgur.com/nj4OusZ.jpeg'/>
+            </Link>
+            <Link to={'/archieve/DROMAPIC/4'}>
+                <img src='https://i.imgur.com/ifvRKFg.jpeg'/>
+            </Link>
+            <Link to={'/archieve/DROMAPIC/6'}>
+                <img src='https://i.imgur.com/kP60HNU.jpeg'/>
+            </Link>
+            <Link to={'/archieve/DROMAPIC/7'}>
+                <img src='https://i.imgur.com/2SpJyBt.jpeg'/>
+            </Link>
+            <Link to={'/archieve/DROMAPIC/21'}>
+                <img src={Lee}/>
+            </Link>
         </div>
     </div>
     )

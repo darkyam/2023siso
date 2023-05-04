@@ -1,13 +1,13 @@
 import React from 'react';
-import loadsiso from '../img/siso_load.gif'
-import Foot_loading from './Foot_loading';
+import Loadsiso from '../img/siso_load.gif'
+import { useState, useEffect } from 'react';
 import App from '../App';
+import './css/load_style.css'
 
 function Loading(){
     return (
-        <div>
-            <Foot_loading/>
-            <img src={loadsiso} onClick={App}/>
+        <div className="image-container">
+            <img src={Loadsiso}/>
         </div>
     )
 

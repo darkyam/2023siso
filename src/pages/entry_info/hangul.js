@@ -1,13 +1,14 @@
 import { Button } from "react-bootstrap";
 import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_hangul.png"
-import title from "../../img/entry/title/hangul.png"
+import title from "../../img/entry/title/HANGULGGOL.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Hangul() {
     return(
         <div className="entry_all">
-        <Title name="Hangulggol"/>
+        <Title name="HANGULGGOL"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,9 @@ function Hangul() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/HANGULGGOL'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
         </div>
         </div>
     )

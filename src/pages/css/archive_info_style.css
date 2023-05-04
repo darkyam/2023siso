@@ -8,7 +8,7 @@
     margin-right: 5%;
 }
 .archive_poster img{
-    width: 90%;
+    width: 100%;
     margin-top: 10px;
     margin-bottom: 50px;
 }
@@ -33,4 +33,10 @@
     background-color: #0B8BB0;
     margin-top: 10px;
     width: 90%;
+}
+.archive_link img{
+
+    width: 42%;
+    margin-top: 5%;
+    margin-left: 5%;
 }

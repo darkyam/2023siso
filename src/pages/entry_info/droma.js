@@ -1,13 +1,14 @@
 import { Button } from "react-bootstrap";
 import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_droma.png"
-import title from "../../img/entry/title/dro.png"
+import title from "../../img/entry/title/DROMAPIC.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Droma() {
     return(
         <div className="entry_all">
-        <Title name="Dromapic"/>
+        <Title name="DROMAPIC"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,9 @@ function Droma() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/DROMAPIC'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
         </div>
         </div>
     )

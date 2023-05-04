@@ -1,5 +1,6 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Grb() {
     return (
@@ -10,7 +11,7 @@ function Grb() {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src='https://i.imgur.com/sEfIBLD.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -26,7 +27,60 @@ function Grb() {
         </div>
         <hr/>
         <div className='archive_link'>
-
+        <Link to={'/archieve/GREENBEE/3'}>
+                <img src='https://i.imgur.com/FFlqvna.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/4'}>
+                <img src='https://i.imgur.com/Qo15WU3.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/5'}>
+                <img src='https://i.imgur.com/itWlIdF.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/6'}>
+                <img src='https://i.imgur.com/TSNDuMG.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/7'}>
+                <img src='https://i.imgur.com/Yh3s39x.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/8'}>
+                <img src='https://i.imgur.com/zVQK2rD.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/9'}>
+                <img src='https://i.imgur.com/eVESRZ5.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/10'}>
+                <img src='https://i.imgur.com/UWQIzpG.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/11'}>
+                <img src='https://i.imgur.com/qd85nUW.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/12'}>
+                <img src='https://i.imgur.com/gzJgD3l.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/13'}>
+                <img src='https://i.imgur.com/FEOCYeF.png'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/14'}>
+                <img src='https://i.imgur.com/CfPNh3y.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/15'}>
+                <img src='https://i.imgur.com/sbCsavq.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/16'}>
+                <img src='https://i.imgur.com/PZFm5Si.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/17'}>
+                <img src='https://i.imgur.com/f96hNzX.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/18'}>
+                <img src='https://i.imgur.com/MV17xtI.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/20'}>
+                <img src='https://i.imgur.com/6oyUUct.jpeg'/>
+            </Link>
+            <Link to={'/archieve/GREENBEE/23'}>
+                <img src='https://i.imgur.com/MXrgIk2.jpeg'/>
+            </Link>
         </div>
     </div>
     )

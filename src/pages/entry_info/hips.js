@@ -3,11 +3,12 @@ import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_hips.png"
 import title from "../../img/entry/title/hips.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Hips() {
     return(
         <div className="entry_all">
-        <Title name="Hyphen"/>
+        <Title name="HIPS"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,9 @@ function Hips() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/HIPS'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
         </div>
         </div>
     )

@@ -80,6 +80,28 @@ const Credit=()=>{
                     박수민 이수빈 구재혁 이재원 한재원 이현
                 </p>
             </div>
+            <div className="credit_part">
+                <p>
+                웹 개발
+                </p>
+            </div>
+            <div className="credit_names">
+                <p>
+                    정성훈
+                </p>
+            </div>
+            <div className="credit_part">
+                <p>
+                SPECIAL THANKS TO
+                </p>
+            </div>
+            <div className="credit_names">
+                <p>
+                    댕훈<br/>
+                    조말론<br/>
+                    아이묭
+                </p>
+            </div>
         </div>
         </>
         

@@ -7,6 +7,7 @@
     border-bottom: #0B8BB0;
     line-height: 20px;
     font-weight: 700;
+    letter-spacing: 2px;
 }
 .link_entry img{
     width: 15px;
@@ -16,12 +17,14 @@
     border-color:white;
     border-width: 5px;
     border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .entry_func hr{
     border: none;
     margin-left: 10%;
-    height: 2px;
+    height: 1px;
     background-color: #0B8BB0;
-    margin-top: 10px;
+    margin-top: 5px;
     width: 80%;
 }

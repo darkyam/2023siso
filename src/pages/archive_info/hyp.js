@@ -1,5 +1,6 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Hyp () {
     return (
@@ -10,7 +11,7 @@ function Hyp () {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src='https://i.imgur.com/AVF3pfe.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -26,7 +27,34 @@ function Hyp () {
         </div>
         <hr/>
         <div className='archive_link'>
+        <Link to={'/archieve/HYPHEN/6'}>
+        <img src='https://i.imgur.com/lOWoMvQ.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/10'}>
+        <img src='https://i.imgur.com/NcoSaPt.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/11'}>
+        <img src='https://i.imgur.com/OzXhg54.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/12'}>
+        <img src='https://i.imgur.com/NBc8jsq.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/14'}>
+        <img src='https://i.imgur.com/TmGACMA.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/18'}>
+        <img src='https://i.imgur.com/4uxCJFw.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/21'}>
+        <img src='https://i.imgur.com/vyJfAvc.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/24'}>
+        <img src='https://i.imgur.com/hbeA83K.jpeg'/>
+        </Link>
+        <Link to={'/archieve/HYPHEN/28'}>
+        <img src='https://i.imgur.com/efrcQFy.jpeg'/>
 
+        </Link>
         </div>
     </div>
     )

@@ -1,5 +1,5 @@
 import './css/about_style.css'
-import Poster from '../img/mobile_main3.png'
+import Poster from '../img/about_main.jpg'
 import Title from '../component/Title'
 
 const About = () => {

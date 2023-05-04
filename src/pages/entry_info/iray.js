@@ -3,11 +3,12 @@ import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_i.png"
 import title from "../../img/entry/title/iray.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Iray() {
     return(
         <div className="entry_all">
-        <Title name="I-Ray"/>
+        <Title name="I-RAY"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,9 @@ function Iray() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/I-RAY'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
         </div>
         </div>
     )

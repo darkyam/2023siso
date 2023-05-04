@@ -8,15 +8,15 @@ const Archieve=()=>{
         <>
         <Title name="Archieve"/>
         <div>
-        <Archive_name pageName="Adrenalin"/>
-        <Archive_name pageName="Dromapic"/>
-        <Archive_name pageName="Greenbee"/>
-        <Archive_name pageName="Hangulggol"/>
-        <Archive_name pageName="Hyphen"/>
-        <Archive_name pageName="Hips"/>
-        <Archive_name pageName="I-Ray"/>
-        <Archive_name pageName="Proto"/>
-        <Archive_name pageName="Yadz"/>
+        <Archive_name pageName="ADRENALIN"/>
+        <Archive_name pageName="DROMAPIC"/>
+        <Archive_name pageName="GREENBEE"/>
+        <Archive_name pageName="HANGULGGOL"/>
+        <Archive_name pageName="HYPHEN"/>
+        <Archive_name pageName="HIPS"/>
+        <Archive_name pageName="I-RAY"/>
+        <Archive_name pageName="PROTO"/>
+        <Archive_name pageName="YADZ"/>
         </div>
         <div className='blank_entry'/>        
         </>

@@ -1,13 +1,14 @@
 import { Button } from "react-bootstrap";
 import Title from "../../component/Title";
 import adre_logo from "../../img/entry/logo/logo_ad.png"
-import adre_title from "../../img/entry/title/adre.png"
+import adre_title from "../../img/entry/title/ADRENALIN.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Adre() {
     return(
         <div className="entry_all">
-        <Title name="Adrenalin"/>
+        <Title name="ADRENALIN"/>
         <div className="entry_logo">
             <img src={adre_logo}/>
         </div>
@@ -23,7 +24,10 @@ function Adre() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/ADRENALIN'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
+            
         </div>
         </div>
     )

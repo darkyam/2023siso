@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .grid-container img {
+    width: 100%;
+    height: auto;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .grid-container img.hovered {
+    transform: scale(1.1);
+  }

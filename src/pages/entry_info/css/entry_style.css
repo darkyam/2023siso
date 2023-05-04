@@ -5,19 +5,18 @@
 }
 
 .entry_logo img{
-    margin-top: 50px;
-    width: 40%;
+    width: 100%;
 }
 
 .entry_name img{
-    margin-top: 50px;
     margin-bottom: 15px;
-    width: 40%;
+    width: 60%;
 }
 .entry_info{
+    text-align: left;
     margin-left: 7%;
     margin-right: 7%;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 .blank_entry{
     margin-top: 50px;
@@ -25,4 +24,11 @@
 .archive_button{
     border-color: #0B8BB0;
     color: #0B8BB0;
+    margin-bottom: 100px;
+}
+.archive_button:hover,
+.archive_button:focus{
+    background-color: #0B8BB0;
+    color: #ffffff;
+
 }

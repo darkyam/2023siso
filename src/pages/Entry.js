@@ -8,23 +8,20 @@ import Adre from './entry_info/adre'
 
 const Entry=()=>{
     return (
-        <>
         <div>
-        <Title name="Entry"/>
         <div>
-        <Entry_name pageName="Adrenalin"/>
-        <Entry_name pageName="Dromapic"/>
-        <Entry_name pageName="Greenbee"/>
-        <Entry_name pageName="Hangulggol"/>
-        <Entry_name pageName="Hyphen"/>
-        <Entry_name pageName="Hips"/>
-        <Entry_name pageName="I-Ray"/>
-        <Entry_name pageName="Proto"/>
-        <Entry_name pageName="Yadz"/>
+        <Entry_name pageName="ADRENALIN"/>
+        <Entry_name pageName="DROMAPIC"/>
+        <Entry_name pageName="GREENBEE"/>
+        <Entry_name pageName="HANGULGGOL"/>
+        <Entry_name pageName="HYPHEN"/>
+        <Entry_name pageName="HIPS"/>
+        <Entry_name pageName="I-RAY"/>
+        <Entry_name pageName="PROTO"/>
+        <Entry_name pageName="YADZ"/>
         </div>
         <div className='blank_entry'/>
         </div>
-        </>
     )
 
     

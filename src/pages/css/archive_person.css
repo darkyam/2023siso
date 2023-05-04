@@ -1,0 +1,48 @@
+.person_all{
+    color: #0B8BB0;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 13px;
+    font-weight: 500;
+}
+.person_all p{
+    margin-bottom: 10px;
+}
+.person_all .youtube_link iframe{
+    display: block;
+    width: 100%;
+    height: 30vh;
+    margin-bottom:50px ;
+}
+.person_all .team_name{
+    font-weight: 700;
+}
+.person_all .work_name{
+    font-weight: 700;
+}
+.person_all .insta_id{
+    margin-top: 50px;
+    text-align: left;
+    float: right;
+}
+.person_all .insta_id a{
+    color:#0B8BB0;
+}
+.person_all .work_img img{
+    margin-top: 50px;
+    width: 100%;
+}
+.person_all .web_link{
+    margin-top: 5%;
+}
+.person_all .web_link a{
+    text-decoration: none;
+    color: #0B8BB0;
+}
+.person_all .web_link img{
+    width: 10%;
+    margin-right: 5px;
+    margin-bottom: 13px;
+}

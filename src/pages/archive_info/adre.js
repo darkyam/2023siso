@@ -1,16 +1,17 @@
 import '../css/archive_info_style.css'
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Adr() {
     return (
         <div className='archive_all'>
         <div className='archive_name'>
             <p>
-                I-RAY
+                ADRENALIN
             </p>
         </div>
         <div className='archive_poster'>
-            <img src=''/>
+            <img src='https://i.imgur.com/XnJjj8a.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -26,7 +27,45 @@ function Adr() {
         </div>
         <hr/>
         <div className='archive_link'>
-
+        <Link to={'/archieve/ADRENALIN/4'}>
+                <img src='https://i.imgur.com/m9erNcb.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/5'}>
+                <img src='https://i.imgur.com/d0p13v1.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/6'}>
+                <img src='https://i.imgur.com/v56tdKl.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/7'}>
+                <img src='https://i.imgur.com/vmL4Aqm.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/9'}>
+                <img src='https://i.imgur.com/OjVSiS5.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/10'}>
+                <img src='https://i.imgur.com/DUV1O2C.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/12'}>
+                <img src='https://i.imgur.com/2xHUg8V.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/13'}>
+                <img src='https://i.imgur.com/NLlAEVO.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/14'}>
+                <img src='https://i.imgur.com/b4rN0x6.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/15'}>
+                <img src='https://i.imgur.com/bdIsFfT.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/16'}>
+                <img src='https://i.imgur.com/EOBRbHX.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/17'}>
+                <img src='https://i.imgur.com/4Z8xPwo.jpeg'/>
+            </Link>
+            <Link to={'/archieve/ADRENALIN/18'}>
+                <img src='https://i.imgur.com/3P0rTwB.jpeg'/>
+            </Link>
         </div>
     </div>
     )

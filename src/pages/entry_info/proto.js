@@ -3,11 +3,12 @@ import Title from "../../component/Title";
 import logo from "../../img/entry/logo/logo_proto.png"
 import title from "../../img/entry/title/proto.png"
 import './css/entry_style.css'
+import { Link } from "react-router-dom";
 
 function Proto() {
     return(
         <div className="entry_all">
-        <Title name="Proto"/>
+        <Title name="PROTO"/>
         <div className="entry_logo">
             <img src={logo}/>
         </div>
@@ -20,7 +21,9 @@ function Proto() {
             </p>
         </div>
         <div>
+            <Link to={'/archieve/PROTO'}>
             <Button variant="outline" className="archive_button">Archive</Button>
+            </Link>
         </div>
         </div>
     )

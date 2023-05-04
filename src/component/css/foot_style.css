@@ -1,16 +1,24 @@
 footer{
     background-color: white;
-    margin-top: 10px;
+    margin-top: 5px;
     color: #a6d5e5;
     font-weight: 700;
-    line-height: 25px;
+    line-height: 5px;
 
 }
-footer .info .date{
+.info .date{
     font-family: 'Kosmos';
     text-decoration: none;
     font-size: medium;
     color: #a6d5e5;
+}
+.info img{
+     width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
 }
 footer img {
     width: 100%;
@@ -20,22 +28,34 @@ footer img {
     background-position: center;
     overflow: hidden;
   }
-footer .info{
-    margin-left: 10px;
+.info{
+    background-color: white;
+    margin-top: 10px;
+    color: #a6d5e5;
+    font-weight: 700;
+    line-height: 25px;
+    margin-left: 5%;
     font-family: 'PyeongChangPeace-Light';
     font-size: 14px;
     float: left;
 }
-footer .info .siso_foot{
+.info .siso_foot{
     width: 130px;
     height: 60px;
 }
 footer .logo{
-    width: 100px;
-    height: 150px;
-    margin-right: 5px;
+    width: 90%;
+    margin-right: 5%;  
     float: right;
     text-align: right;
+}
+footer .underline hr{
+    border: none;
+    height: 3px;
+    color: #0B8BB0;
+    background-color: #0B8BB0;
+    width: 100%;
+    text-align: left;
 }
 footer .logo a{
     font-size: 15px;
@@ -43,7 +63,8 @@ footer .logo a{
     color: #a6d5e5;
 }
 footer .logo img{
-    margin-top: 100px;
+    background-color:white;
+    margin-top: 5px;
     justify-content:right;
     width: 24px;
     height: 24px;

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import '../css/archive_info_style.css'
 import React from 'react';
 
@@ -10,7 +11,7 @@ function Pro() {
             </p>
         </div>
         <div className='archive_poster'>
-            <img src='https://i.imgur.com/4RRPmUs.jpeg'/>
+            <img src='https://i.imgur.com/m4RpHip.jpeg'/>
         </div>
         <div className='archive_title'>
             <p>
@@ -27,7 +28,63 @@ function Pro() {
         </div>
         <hr/>
         <div className='archive_link'>
-
+            <Link to={'/archieve/PROTO/3'}>
+                <img src='https://i.imgur.com/113fodx.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/5'}>
+                <img src='https://i.imgur.com/iT25C2Q.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/6'}>
+                <img src='https://i.imgur.com/xCbX7n7.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/7'}>
+                <img src='https://i.imgur.com/1Qcu9mV.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/8'}>
+                <img src='https://i.imgur.com/oQKMgre.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/9'}>
+                <img src='https://i.imgur.com/RfgYAVQ.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/10'}>
+                <img src='https://i.imgur.com/f1WqavL.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/11'}>
+                <img src='https://i.imgur.com/hBaJBUm.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/12'}>
+                <img src='https://i.imgur.com/LnShs1m.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/13'}>
+                <img src='https://i.imgur.com/uU6VgtD.jpeg'/>
+            </Link>
+            <a href=''>
+                <img src='https://i.imgur.com/8EkiKfD.jpeg'/>
+            </a>
+            <Link to={'/archieve/PROTO/15'}>
+                <img src='https://i.imgur.com/NbKVPAu.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/16'}>
+                <img src='https://i.imgur.com/2K2Gh6K.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/17'}>
+                <img src='https://i.imgur.com/0sQIWVA.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/18'}>
+                <img src='https://i.imgur.com/sDbNz2O.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/19'}>
+                <img src='https://i.imgur.com/YQBOhhd.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/20'}>
+                <img src='https://i.imgur.com/wbSTnNN.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/21'}>
+                <img src='https://i.imgur.com/0b32pjZ.jpeg'/>
+            </Link>
+            <Link to={'/archieve/PROTO/22'}>
+                <img src='https://i.imgur.com/bL13C9q.jpeg'/>
+            </Link>
         </div>
     </div>
     )
