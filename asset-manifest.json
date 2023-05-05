@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3ebb090.css",
-    "main.js": "/static/js/main.dd72ddae.js",
+    "main.css": "/static/css/main.8c695e43.css",
+    "main.js": "/static/js/main.c67c1ef0.js",
     "static/media/siso_load.gif": "/static/media/siso_load.ee939c76539ceac797a6.gif",
     "static/media/PyeongChangPeace-Light.ttf": "/static/media/PyeongChangPeace-Light.7904d3e69c9b476d2315.ttf",
     "static/media/Happiness-Sans-Regular.ttf": "/static/media/Happiness-Sans-Regular.5afb83fefa96d6db8c5e.ttf",
@@ -46,11 +46,11 @@
     "static/media/GREENBEE.png": "/static/media/GREENBEE.05377106d2a36325e300.png",
     "static/media/proto.png": "/static/media/proto.f8d6141ec12b4a8c006b.png",
     "index.html": "/index.html",
-    "main.b3ebb090.css.map": "/static/css/main.b3ebb090.css.map",
-    "main.dd72ddae.js.map": "/static/js/main.dd72ddae.js.map"
+    "main.8c695e43.css.map": "/static/css/main.8c695e43.css.map",
+    "main.c67c1ef0.js.map": "/static/js/main.c67c1ef0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3ebb090.css",
-    "static/js/main.dd72ddae.js"
+    "static/css/main.8c695e43.css",
+    "static/js/main.c67c1ef0.js"
   ]
 }
